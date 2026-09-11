@@ -1,0 +1,20 @@
+{
+  "$schema" : "https://json-schema.axonivy.com/14.0-dev/project/data-class.json",
+  "simpleName" : "PersonData",
+  "namespace" : "com.axonivy.demo.anonymous.user.core.ui.Person",
+  "fields" : [ {
+    "name" : "person",
+    "type" : "com.axonivy.demo.anonymous.user.core.Person",
+    "modifiers" : [ ]
+  }, {
+    "name" : "personId",
+    "modifiers" : [ ]
+  }, {
+    "name" : "emailSubmittMissingDataLink",
+    "modifiers" : [ ]
+  }, {
+    "name" : "missingSocSecNum",
+    "type" : "Boolean",
+    "modifiers" : [ ]
+  } ]
+}
